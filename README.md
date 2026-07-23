@@ -5,9 +5,18 @@ This dashboard was created to give key insights on global health using a real da
 ## Global Health Survey Dashboard
 <img width="1843" height="837" alt="image" src="https://github.com/user-attachments/assets/f12db9eb-8db3-4db9-a74e-3aafb538886f" />
 
+# Key insights
+- The UK has a high life expectancy alongside other european nations compared to eastern european nations.
+
+- Stomach cancer significantly affects men and overtime the gap between both genders have widened.
+
+- Majority of liver cancer cases are found in asia and this could be due to a range of factors such as better detection due to healthcare, diet etc.
+  
+
 ## Skills Demonstrated
 -Tableau dashboard development
 
 -Geographic data and heatmap visualisation
 
 -Data insights and interpretation
+
